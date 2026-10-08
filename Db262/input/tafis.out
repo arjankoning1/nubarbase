@@ -1,0 +1,109 @@
+
+
+  -------------------------------------------------------------
+  -                                                           -
+  -             Welcome to TAFIS version 1.1                  -
+  -                                                           -
+  -               (Version Feb. 18, 2025)                     -
+  -  (C) Copyright 2007-2025 D. Rochman, All Rights Reserved  -
+  -                                                           -
+  -------------------------------------------------------------
+
+
+   Compiled on:         Apr 25 2025, 10:37:29
+   Compiled by:         koning
+   System:              Darwin 21.6.0
+   System version:      Darwin Kernel Version 21.6.0: Mon Jun 24 00:56:10 PDT 2024; root:xnu-8020.240.18.709.2~1/RELEASE_X86_64  
+   Machine:             x86_64 
+   Source location:     /Users/koning/tafis-1.1/source/Module/
+   Binaries location:   /Users/koning/bin
+
+
+Starting time: 
+          --> Isotope name: Db
+
+       ###############################################
+       #             Input definition                #
+       ###############################################
+
+Mass: 262
+Charge: 105
+Projectile: neutron
+Normalization: none
+Type of calculation: nu-bar with 6 random files
+Incident energy: default grid
+Default random generator seed chosen: current time
+Default random generator chosen: C++
+Probability distribution for random numbers: Gauss
+Keyword: projectile not found in tafis.inp. Default taken (neutron)
+Keyword: normalization not found in tafis.inp. Default taken (none)
+Keyword: type not found in tafis.inp. Default taken (nubar)
+Random calculations selected with 6 random files
+Model for nubar: pfns
+
+       ###############################################
+       #           End of Input definition           #
+       ###############################################
+
+ Read inputs for different energies
+Energy 1e-5 eV
+Energy 5e+5 eV
+Energy 1e+6 eV
+Energy 2e6 eV
+Energy 3e6 eV
+Energy 5e6 eV
+Energy 8e6 eV
+Energy 10e6 eV
+Energy 15e6 eV
+Energy 20e6 eV
+usage: sleep seconds
+Calculate random MT452 0
+usage: sleep seconds
+Calculate random MT452 1
+usage: sleep seconds
+Calculate random MT452 2
+usage: sleep seconds
+Calculate random MT452 3
+usage: sleep seconds
+Calculate random MT452 4
+usage: sleep seconds
+Calculate random MT452 5
+usage: sleep seconds
+Calculate random MT452 6
+ ... uncertainty multiplier: 1
+Extract MF31 MT455 from default file
+usage: sleep seconds
+Calculate random MT458 0
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 1
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 2
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 3
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 4
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 5
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 6
+usage: sleep seconds
+ Extract MF1 MT455 
+-------------------------------------------------------------
+-                                                           -
+-             TAFIS: successful end of run                  -
+-                                                           -
+-------------------------------------------------------------
+
+
+   Running time:       252 seconds
+   Hard drive memory:  0.0634766 kBytes
+   RAM memory:         220 kBytes
+
+End time: 
+

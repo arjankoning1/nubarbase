@@ -1,0 +1,579 @@
+
+
+  -------------------------------------------------------------
+  -                                                           -
+  -             Welcome to TAFIS version 1.1                  -
+  -                                                           -
+  -               (Version Feb. 18, 2025)                     -
+  -  (C) Copyright 2007-2025 D. Rochman, All Rights Reserved  -
+  -                                                           -
+  -------------------------------------------------------------
+
+
+   Compiled on:         Apr 25 2025, 10:37:29
+   Compiled by:         koning
+   System:              Darwin 21.6.0
+   System version:      Darwin Kernel Version 21.6.0: Mon Jun 24 00:56:10 PDT 2024; root:xnu-8020.240.18.709.2~1/RELEASE_X86_64  
+   Machine:             x86_64 
+   Source location:     /Users/koning/tafis-1.1/source/Module/
+   Binaries location:   /Users/koning/bin
+
+
+Starting time: 
+          --> Isotope name: Th
+
+       ###############################################
+       #             Input definition                #
+       ###############################################
+
+Mass: 232
+Charge: 90
+Projectile: neutron
+Normalization: endfb8.0
+Type of calculation: nu-bar with 100 random files
+Incident energy: default grid
+Default random generator seed chosen: current time
+Default random generator chosen: C++
+Probability distribution for random numbers: Gauss
+Keyword: projectile not found in tafis.inp. Default taken (neutron)
+Keyword: type not found in tafis.inp. Default taken (nubar)
+Random calculations selected with 100 random files
+Model for nubar: pfns
+
+       ###############################################
+       #           End of Input definition           #
+       ###############################################
+
+ Read inputs for different energies
+Energy 1e-5 eV
+Energy 5e+5 eV
+Energy 1e+6 eV
+Energy 2e6 eV
+Energy 3e6 eV
+Energy 5e6 eV
+Energy 8e6 eV
+Energy 10e6 eV
+Energy 15e6 eV
+Energy 20e6 eV
+energy= 0.0253 Nubar Calc= 4.24026 Norm (W/B8.0)= 2.01466
+usage: sleep seconds
+Calculate random MT452 0
+usage: sleep seconds
+Calculate random MT452 1
+usage: sleep seconds
+Calculate random MT452 2
+usage: sleep seconds
+Calculate random MT452 3
+usage: sleep seconds
+Calculate random MT452 4
+usage: sleep seconds
+Calculate random MT452 5
+usage: sleep seconds
+Calculate random MT452 6
+usage: sleep seconds
+Calculate random MT452 7
+usage: sleep seconds
+Calculate random MT452 8
+usage: sleep seconds
+Calculate random MT452 9
+usage: sleep seconds
+Calculate random MT452 10
+usage: sleep seconds
+Calculate random MT452 11
+usage: sleep seconds
+Calculate random MT452 12
+usage: sleep seconds
+Calculate random MT452 13
+usage: sleep seconds
+Calculate random MT452 14
+usage: sleep seconds
+Calculate random MT452 15
+usage: sleep seconds
+Calculate random MT452 16
+usage: sleep seconds
+Calculate random MT452 17
+usage: sleep seconds
+Calculate random MT452 18
+usage: sleep seconds
+Calculate random MT452 19
+usage: sleep seconds
+Calculate random MT452 20
+usage: sleep seconds
+Calculate random MT452 21
+usage: sleep seconds
+Calculate random MT452 22
+usage: sleep seconds
+Calculate random MT452 23
+usage: sleep seconds
+Calculate random MT452 24
+usage: sleep seconds
+Calculate random MT452 25
+usage: sleep seconds
+Calculate random MT452 26
+usage: sleep seconds
+Calculate random MT452 27
+usage: sleep seconds
+Calculate random MT452 28
+usage: sleep seconds
+Calculate random MT452 29
+usage: sleep seconds
+Calculate random MT452 30
+usage: sleep seconds
+Calculate random MT452 31
+usage: sleep seconds
+Calculate random MT452 32
+usage: sleep seconds
+Calculate random MT452 33
+usage: sleep seconds
+Calculate random MT452 34
+usage: sleep seconds
+Calculate random MT452 35
+usage: sleep seconds
+Calculate random MT452 36
+usage: sleep seconds
+Calculate random MT452 37
+usage: sleep seconds
+Calculate random MT452 38
+usage: sleep seconds
+Calculate random MT452 39
+usage: sleep seconds
+Calculate random MT452 40
+usage: sleep seconds
+Calculate random MT452 41
+usage: sleep seconds
+Calculate random MT452 42
+usage: sleep seconds
+Calculate random MT452 43
+usage: sleep seconds
+Calculate random MT452 44
+usage: sleep seconds
+Calculate random MT452 45
+usage: sleep seconds
+Calculate random MT452 46
+usage: sleep seconds
+Calculate random MT452 47
+usage: sleep seconds
+Calculate random MT452 48
+usage: sleep seconds
+Calculate random MT452 49
+usage: sleep seconds
+Calculate random MT452 50
+usage: sleep seconds
+Calculate random MT452 51
+usage: sleep seconds
+Calculate random MT452 52
+usage: sleep seconds
+Calculate random MT452 53
+usage: sleep seconds
+Calculate random MT452 54
+usage: sleep seconds
+Calculate random MT452 55
+usage: sleep seconds
+Calculate random MT452 56
+usage: sleep seconds
+Calculate random MT452 57
+usage: sleep seconds
+Calculate random MT452 58
+usage: sleep seconds
+Calculate random MT452 59
+usage: sleep seconds
+Calculate random MT452 60
+usage: sleep seconds
+Calculate random MT452 61
+usage: sleep seconds
+Calculate random MT452 62
+usage: sleep seconds
+Calculate random MT452 63
+usage: sleep seconds
+Calculate random MT452 64
+usage: sleep seconds
+Calculate random MT452 65
+usage: sleep seconds
+Calculate random MT452 66
+usage: sleep seconds
+Calculate random MT452 67
+usage: sleep seconds
+Calculate random MT452 68
+usage: sleep seconds
+Calculate random MT452 69
+usage: sleep seconds
+Calculate random MT452 70
+usage: sleep seconds
+Calculate random MT452 71
+usage: sleep seconds
+Calculate random MT452 72
+usage: sleep seconds
+Calculate random MT452 73
+usage: sleep seconds
+Calculate random MT452 74
+usage: sleep seconds
+Calculate random MT452 75
+usage: sleep seconds
+Calculate random MT452 76
+usage: sleep seconds
+Calculate random MT452 77
+usage: sleep seconds
+Calculate random MT452 78
+usage: sleep seconds
+Calculate random MT452 79
+usage: sleep seconds
+Calculate random MT452 80
+usage: sleep seconds
+Calculate random MT452 81
+usage: sleep seconds
+Calculate random MT452 82
+usage: sleep seconds
+Calculate random MT452 83
+usage: sleep seconds
+Calculate random MT452 84
+usage: sleep seconds
+Calculate random MT452 85
+usage: sleep seconds
+Calculate random MT452 86
+usage: sleep seconds
+Calculate random MT452 87
+usage: sleep seconds
+Calculate random MT452 88
+usage: sleep seconds
+Calculate random MT452 89
+usage: sleep seconds
+Calculate random MT452 90
+usage: sleep seconds
+Calculate random MT452 91
+usage: sleep seconds
+Calculate random MT452 92
+usage: sleep seconds
+Calculate random MT452 93
+usage: sleep seconds
+Calculate random MT452 94
+usage: sleep seconds
+Calculate random MT452 95
+usage: sleep seconds
+Calculate random MT452 96
+usage: sleep seconds
+Calculate random MT452 97
+usage: sleep seconds
+Calculate random MT452 98
+usage: sleep seconds
+Calculate random MT452 99
+usage: sleep seconds
+Calculate random MT452 100
+ ... uncertainty multiplier: 1
+Extract MF31 MT455 from default file
+usage: sleep seconds
+Calculate random MT458 0
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 1
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 2
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 3
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 4
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 5
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 6
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 7
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 8
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 9
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 10
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 11
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 12
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 13
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 14
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 15
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 16
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 17
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 18
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 19
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 20
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 21
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 22
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 23
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 24
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 25
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 26
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 27
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 28
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 29
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 30
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 31
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 32
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 33
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 34
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 35
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 36
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 37
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 38
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 39
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 40
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 41
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 42
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 43
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 44
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 45
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 46
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 47
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 48
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 49
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 50
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 51
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 52
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 53
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 54
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 55
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 56
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 57
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 58
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 59
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 60
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 61
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 62
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 63
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 64
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 65
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 66
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 67
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 68
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 69
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 70
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 71
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 72
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 73
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 74
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 75
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 76
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 77
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 78
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 79
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 80
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 81
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 82
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 83
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 84
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 85
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 86
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 87
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 88
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 89
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 90
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 91
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 92
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 93
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 94
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 95
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 96
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 97
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 98
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 99
+usage: sleep seconds
+usage: sleep seconds
+Calculate random MT458 100
+usage: sleep seconds
+ Extract MF1 MT455 
+-------------------------------------------------------------
+-                                                           -
+-             TAFIS: successful end of run                  -
+-                                                           -
+-------------------------------------------------------------
+
+
+   Running time:       8664 seconds
+   Hard drive memory:  0.0634766 kBytes
+   RAM memory:         220 kBytes
+
+End time: 
+
